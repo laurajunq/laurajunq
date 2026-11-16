@@ -1,62 +1,64 @@
 # Laura Junqueira
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=30&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Web+Developer;Angular+%7C+JavaScript+%7C+PHP;Welcome+to+my+GitHub!" />
-</p>
+\<p align="center">   \<img src="[https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=9B72CF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Web+Development+Enthusiast;Building+solutions+through+code](https://readme-typing-svg.herokuapp.com/?font=Fira+Code\&size=25\&duration=3000\&pause=1000\&color=9B72CF\&center=true\&vCenter=true\&width=650\&lines=Software+Engineering+Student;Web+Development+Enthusiast;Building+solutions+through+code)" alt="Typing SVG" /> \</p>
+
+\<p align="center">   \<a href="[https://www.linkedin.com/in/laura-junqueira-5a4227288](https://www.linkedin.com/in/laura-junqueira-5a4227288)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-9B72CF?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-9B72CF?style=flat-square\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="mailto\:laura.junqueira\@ges.inatel.br">     \<img src="[https://img.shields.io/badge/Email-Contact-9B72CF?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-9B72CF?style=flat-square\&logo=gmail\&logoColor=white)" />   \</a> \</p>
 
 ---
 
-## Sobre mim
+## About Me
 
-Formada no Instituto Federal de Minas Gerais em **técnico de informática** integrado ao ensino médio
+I'm a **Software Engineering student at INATEL** (National Institute of Telecommunications), Brazil, with a technical background in Information Technology from the Federal Institute of Minas Gerais (IFMG).
 
-Estudante de **Engenharia de Software** no Instituto Nacional de Telecomunicações - INATEL
+I'm interested in software development, web technologies, and building practical solutions through technology.
 
----
+Currently, I'm focused on expanding my technical knowledge, developing personal and academic projects, and strengthening my skills in software engineering.
 
-## Tecnologias
-
-<p>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-</p>
+- 🎓 Software Engineering student at INATEL.
+- 💻 Technical degree in Information Technology from IFMG.
+- 🌱 Currently developing my skills in software development.
+- 🚀 Interested in international opportunities and collaborative projects.
 
 ---
 
-## Frameworks e Ferramentas
+## Tech Stack
 
-<p>
+**Programming Languages**
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+\<p>   \<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" />   \<img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)" /> \</p>
 
-</p>
+**Web Development**
 
----
+\<p>   \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)" /> \</p>
 
-## Contribuições
+**Tools & Platforms**
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
+\<p>   \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)" />   \<img src="[https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" /> \</p>
 
 ---
 
-## Contato
+## Featured Projects
 
-LinkedIn: www.linkedin.com/in/laura-junqueira-5a4227288
+### HandPulse
 
-Email: laura.junqueira@ges.inatel.br
+A wearable technology project focused on supporting people with hand tremors through a sensor-based glove and vibrotactile feedback.
+
+**Technologies:** ESP32, MPU6050, JavaScript, Web Development and Firebase.
+
+> Add the link to the project repository here.
 
 ---
 
-⭐ *Transformando ideias em código.*
+## GitHub Activity
+
+\<p align="center">   \<img height="160" src="[https://github-readme-stats.vercel.app/api?username=laurajunq&show_icons=true&theme=transparent&hide_border=true&title_color=9B72CF&icon_color=9B72CF](https://github-readme-stats.vercel.app/api?username=laurajunq\&show_icons=true\&theme=transparent\&hide_border=true\&title_color=9B72CF\&icon_color=9B72CF)" />   \<img height="160" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=laurajunq&layout=compact&theme=transparent&hide_border=true&title_color=9B72CF](https://github-readme-stats.vercel.app/api/top-langs/?username=laurajunq\&layout=compact\&theme=transparent\&hide_border=true\&title_color=9B72CF)" /> \</p>
+
+---
+
+## Let's Connect
+
+\<p align="center">   \<a href="[https://www.linkedin.com/in/laura-junqueira-5a4227288](https://www.linkedin.com/in/laura-junqueira-5a4227288)">LinkedIn\</a> •   \<a href="mailto\:laura.junqueira\@ges.inatel.br">Email\</a> \</p>
+
+\<p align="center">
+&#x20; \<i>Building, learning, and growing through technology.\</i>
+\</p>
